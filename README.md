@@ -1,2 +1,1 @@
-# ListaGlobal
-Plataforma de Anuncios
+# ListaGlobal preview
